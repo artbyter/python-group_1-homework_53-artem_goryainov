@@ -1,0 +1,14 @@
+.ball {
+    /*background-image: url('ball01.jpg');*/
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: #61dafb;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    display: inline-block;
+    line-height: 1.6em;
+    border: #282c34;
+    border-radius: 50%;
+    padding-top: 20px;
+}
