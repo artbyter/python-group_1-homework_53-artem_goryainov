@@ -4,11 +4,21 @@
     background-size: contain;
     background-color: #61dafb;
     width: 100px;
-    height: 100px;
+    height: 95px;
     text-align: center;
     display: inline-block;
-    line-height: 1.6em;
     border: #282c34;
     border-radius: 50%;
-    padding-top: 20px;
+    padding-top: 5px;
+    border: 2px solid black;
+    box-shadow: 3px 3px 15px -4px #000000;
+}
+
+.numButton {
+    border: 2px solid black;
+    background-color: #61dafb;
+    width: 150px;
+    height: 50px;
+    border-radius: 50%;
+    box-shadow: 3px 3px 15px -4px #000000;
 }
